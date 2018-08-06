@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.helloworld"
+        version   = "1.0.0">
+		
+		<name>Cuenta JossFotografia</name>
+
+    <description>
+        Aplicacion para facilitar la cuenta de los trabajadores dentro de JossFotografia.
+    </description>
+	
+	<author href="http://edr.com.mx" email="webmaster@edr.com.mx">
+        EDR Fabrik
+    </author>
+	<icon src="logo.jpg" />
+</widget>
